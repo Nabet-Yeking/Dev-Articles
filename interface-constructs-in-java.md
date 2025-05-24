@@ -1,11 +1,7 @@
 *Published On : 2025-04-28*
 
-# Interface Constructs In Java
-## Introduction
-Interfaces are construct types and in java abstract class and interface types are not directly instantiated. If they are not directly how can they are used indirectly, 
-
-Let use an example code :
-`Runnable r = new <AClassThatImplementARunnableInterface>;`
+## Interface Constructs In Java
+Interfaces are construct types and in java abstract class and interface types are not directly instantiated. If they are not directly how can they are used indirectly, Let use an example code : `Runnable r = new <AClassThatImplementARunnableInterface>;`.
 
 So what does mean using a reference variable of interface types? Even though interface types
 can not be directly instantiate because interfaces only have a list of methods prototype, there
