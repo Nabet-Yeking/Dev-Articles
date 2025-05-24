@@ -13,7 +13,7 @@ of that class and access only methods that are implemented from the interface.
 Also the idea is related to late binding concept in polymorphism, Since there is no implementation
 given in the Runnable interface the method invocation using that reference variable of interface type
 is depend on the object type that is being referenced not the reference type.
-> Information the user should notice even if skimming
+>
 
 ## Conclusion
 When an object implement a given interface a reference variable of that interface type is a way for indirectly use an object of that interface type(technically it is not, but conceptually).
