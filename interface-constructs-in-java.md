@@ -16,4 +16,4 @@ is depend on the object type that is being referenced not the reference type.
 >
 
 ## Conclusion
-When an object implement a given interface a reference variable of that interface type is a way for indirectly use an object of that interface type(technically it is not an object of that interface, but conceptually).
+When an object implement a given interface, a reference variable of that interface type is a way for indirectly use an object of that interface type(technically it is not an object of that interface, but conceptually).
